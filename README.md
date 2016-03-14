@@ -1,3 +1,3 @@
 # Pong
 
-Pong is an experimental progam using Xamarin Studio. 
+Pong is an experimental program using Xamarin Studio. 
